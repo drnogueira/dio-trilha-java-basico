@@ -1,0 +1,8 @@
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos compilados (classes)
+bin/
+
+# Ignorar bibliotecas
+lib/
