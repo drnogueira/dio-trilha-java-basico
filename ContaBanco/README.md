@@ -57,9 +57,7 @@ O programa exibirá um menu interativo com as opções:
 Exibir Saldo
 Depositar
 Sacar
-Sair Escolha uma opção:
-less
-Copy code
+Sair
 
 Com base na opção escolhida, o programa executará a ação correspondente.
 
