@@ -54,10 +54,10 @@ O programa exibirá um menu interativo com as opções:
 
 --- Menu ---
 
-Exibir Saldo
-Depositar
-Sacar
-Sair
+Exibir Saldo  
+Depositar  
+Sacar  
+Sair  
 
 Com base na opção escolhida, o programa executará a ação correspondente.
 
